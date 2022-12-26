@@ -1,0 +1,11 @@
+# GSE
+Gramam Stock Exchange (GSE) Limited is the leading stock exchange in India and is located in Gramam.
+
+Requirement:
+
+Prepare an excel sheet to send an email to 'Daily Digest' subscribers after the market closes everyday at 7:00 pm IST with the below details:
+
+1. Summary in 3 points which mentions the % up or down of the market today, top gainer and the top loser
+2. GIFTY 50 points today and YTD chart 
+3. List of top 5 gainers and losers of today
+4. 1 year and YTD returns of GIFTY 50
